@@ -1,0 +1,308 @@
+28@1@71@Talisman of Resurrection@170@50@*Resurrect automatically in the place character died#(When game client is once closed all the restored data will be initialized#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item.@@182@185@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@40|@6725@2@1@66|@0@508@669
+28@2@69@Talisman of Mobility@170@40@*Return to a place where you used Talisman of Mobility initially #(When game client is once closed all the restored data will be initialized.#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item. @@182@185@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@41|@6726@2@1@67|@0@508@669
+29@1@123@Seal of Wealth@170@150@*Increases experience gained and improves item drop rate.#*Not applicable to Master Level.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Ascension at the same time.#@@182@185@20100526200000@20140527130000@177@1@W Coin@W Coin@181@200@0@10|@6700@2@4@13|14|15|16|@0@508@669
+29@2@510@[+GP_EVENT] Seal of Wealth_7 Day@170@700@*Seal of Wealth_7 Day + 70 Goblin Point##*Increases experience gained and improves item drop rate.#*Not applicable to Master Level.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Ascension at the same time.@@182@185@20111207015000@20151207185000@177@2@W Coin@W Coin@181@200@0@514|610|@6700@2@1@@0@508@669
+29@3@511@[+GP_EVENT] Seal of Wealth_30 Day@170@2100@*Seal of Wealth_30 Day + 420 Goblin Point##*Increases experience gained and improves item drop rate.#*Not applicable to Master Level.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Ascension at the same time.@@182@185@20111207010000@20151207180000@177@2@W Coin@W Coin@181@200@0@608|611|@6700@2@1@@0@508@669
+29@4@125@Seal of Ascension@170@100@*Increases experience gained from killing monsters.#*Not applicable to Master Level Characters.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Wealth at the same time.#@@182@185@20100526200000@20140527130000@177@1@W Coin@W Coin@181@200@0@9|@6699@2@4@9|10|11|12|@0@508@669
+29@5@514@[+GP_EVENT] Seal of Ascension_7 Day@170@500@*Seal of Ascension_7 Day + 50 Goblin Point##*Increases experience gained from killing monsters.#*Not applicable to Master Level Characters.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Wealth at the same time.@@182@185@20111207172000@20151208102000@177@2@W Coin@W Coin@181@200@0@602|614|@6699@2@1@@0@508@669
+29@6@515@[+GP_EVENT] Seal of Ascension_30 Day@170@1400@*Seal of Ascension_30 Day + 280 Goblin Point##*Increases experience gained from killing monsters.#*Not applicable to Master Level Characters.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Wealth at the same time.@@182@185@20111207172000@20151208102000@177@2@W Coin@W Coin@181@200@0@606|615|@6699@2@1@@0@508@669
+29@7@49@Master Seal of Wealth@170@150@Increases experience gained and improves item drop rate.#Master Level only#*You cannot use Master Seal of Ascension at the same time.@@182@185@20100526190000@20140527120000@177@1@W Coin@W Coin@181@200@0@51|@6750@2@3@80|81|82|@0@508@669
+29@8@512@[+GP_EVENT] Master Seal of Wealth_7 Day@170@700@*Master Seal of Wealth_7 Day + 70 Goblin Point##*Increases experience gained and improves item drop rate.#*Master Level only#*You cannot use Master Seal of Ascension at the same time.@@182@185@20111207010000@20151207180000@177@2@W Coin@W Coin@181@200@0@514|612|@6750@2@1@@0@508@669
+29@9@513@[+GP_EVENT] Master Seal of Wealth_30 Day@170@2100@*Master Seal of Wealth_30 Day + 420 Goblin Point##*Increases experience gained and improves item drop rate.#*Master Level only#*You cannot use Master Seal of Ascension at the same time.@@182@185@20111207010000@20151207180000@177@2@W Coin@W Coin@181@200@0@608|613|@6750@2@1@@0@508@669
+29@10@51@Master Seal of Ascension@170@100@Increases experience gained from killing monsters.#Master Level only#*You cannot use Master Seal of Wealth at the same time.@@182@185@20100526190000@20140527120000@177@1@W Coin@W Coin@181@200@0@50|@6749@2@3@77|78|79|@0@508@669
+29@11@516@[+GP_EVENT] Master Seal of Ascension_7 Day@170@500@*Master Seal of Ascension_7 Day + 50 Goblin Point##*Increases experience gained from killing monsters.#*Master Level only#*You cannot use Master Seal of Wealth at the same time.@@182@185@20111207173000@20151208103000@177@2@W Coin@W Coin@181@200@0@602|616|@6749@2@1@@0@508@669
+29@12@517@[+GP_EVENT] Master Seal of Ascension_30 Day@170@1400@*Master Seal of Ascension_30 Day + 280 Goblin Point##*Increases experience gained from killing monsters.#*Master Level only#*You cannot use Master Seal of Wealth at the same time.@@182@185@20111207173000@20151208103000@177@2@W Coin@W Coin@181@200@0@606|617|@6749@2@1@@0@508@669
+29@13@121@Seal of Sustenance@170@80@Prevents experience to be gained.#Applicable to Master Level.#If you were using a seal already, the previous seal effects will disappear@@182@185@20100526190000@20140527120000@177@1@W Coin@W Coin@181@200@0@11|@6701@2@3@17|18|19|@0@508@669
+29@14@75@Seal of Healing@170@120@*Exp gain increase#*Auto life increase at 5%#*Not applicable to Master Level.#*You may use it with Seal of Ascension or Seal of Wealth#*You cannot use Seal of Divinity at the same time.@@182@184@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@38|@6718@2@3@62|63|1311|@0@508@669
+29@15@73@Seal of Divinity@170@100@*Item drop increase+Auto Mana increase at 5%#*You may use it with Seal of Ascension or Seal of Wealth#*You cannot use Seal of Healing at the same time.@@182@184@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@39|@6719@2@3@64|65|1313|@0@508@669
+29@16@8@AG Boost Aura@170@120@Max AG Increase + level#*You cannot use SD Boost Aura at the same time.#120 W Coin - 1Day#600 W Coin - 7Day@@182@185@20100526181000@20140527111000@177@1@W Coin@W Coin@181@200@0@73|@6760@2@2@123|124|@0@508@669
+29@17@7@SD Boost Aura@170@120@Max SD Increase level * 10#*You cannot use AG Boost Aura at the same time.#120 W Coin - 1Day#600 W Coin - 7Day@@182@185@20100526181000@20140527111000@177@1@W Coin@W Coin@181@200@0@74|@6761@2@2@125|126|@0@508@669
+29@18@357@Worn Horseshoe@170@80@Increases Item Drop Rate + 20%@@182@185@20111019030000@20151019200000@177@1@W Coin@W Coin@181@200@0@463|@6790@2@3@540|541|542|@0@508@669
+29@19@526@[+GP_EVENT] Worn Horseshoe 7 Day@170@400@*Worn Horseshoe 7 Day + 40 Goblin Point##*Increases Item Drop Rate + 20%@@182@185@20111207174000@20151208104000@177@2@W Coin@W Coin@181@200@0@512|626|@6790@2@1@@0@508@669
+29@20@527@[+GP_EVENT] Worn Horseshoe 30 Day@170@1200@*Worn Horseshoe 30 Day + 240 Goblin Point##*Increases Item Drop Rate + 20%@@182@185@20111207174000@20151208104000@177@2@W Coin@W Coin@181@200@0@605|627|@6790@2@1@@0@508@669
+29@21@355@Golden Oak Charm@170@120@Increases  HP + 100, SD + 500 This item can't be used with Oak Charm@@182@185@20111019020000@20151019190000@177@1@W Coin@W Coin@181@200@0@462|@6788@2@3@537|538|539|@0@508@669
+29@22@524@[+GP_EVENT] Golden Oak Charm 7 Day@170@600@*Golden Oak Charm 7 Day + 60 Goblin Point##*Increases  HP + 100, SD + 500 This item can't be used with Oak Charm@@182@185@20111207174000@20151208104000@177@2@W Coin@W Coin@181@200@0@513|624|@6788@2@1@@0@508@669
+29@23@525@[+GP_EVENT] Golden Oak Charm 30 Day@170@1800@*Golden Oak Charm 30 Day + 360 Goblin Point##*Increases  HP + 100, SD + 500 This item can't be used with Oak Charm@@182@185@20111207174000@20151208104000@177@2@W Coin@W Coin@181@200@0@607|625|@6788@2@1@@0@508@669
+29@24@353@Oak Charm@170@30@Increases  HP + 50 This item can't be used with Golden Oak Charm@@182@185@20111019020000@20151019190000@177@1@W Coin@W Coin@181@200@0@461|@6786@2@3@534|535|536|@0@508@669
+29@25@522@[+GP_EVENT] Oak Charm 7 Day@170@150@*Oak Charm 7 Day + 15 Goblin Point##*Increases  HP + 50 This item can't be used with Golden Oak Charm@@182@185@20111207173000@20151208103000@177@2@W Coin@W Coin@181@200@0@601|622|@6786@2@1@@0@508@669
+29@26@523@[+GP_EVENT] Oak Charm 30 Day@170@500@*Oak Charm 30 Day + 100 Goblin Point##*Increases  HP + 50 This item can't be used with Golden Oak Charm@@182@185@20111207174000@20151208104000@177@2@W Coin@W Coin@181@200@0@604|623|@6786@2@1@@0@508@669
+29@27@349@Statue of Hawk@170@80@Increases Critical Damage + 10% This item can't be used with Statue of Hawk@@182@185@20111019025000@20151019195000@177@1@W Coin@W Coin@181@200@0@459|@6784@2@3@528|529|530|@0@508@669
+29@28@518@[+GP_EVENT] Statue of Hawk 7 Day@170@400@*Statue of Hawk 7 Day + 40 Goblin Point##*Increases Critical Damage + 10% This item can't be used with Statue of Hawk@@182@185@20111207173000@20151208103000@177@2@W Coin@W Coin@181@200@0@512|618|@6784@2@1@@0@508@669
+29@29@519@[+GP_EVENT] Statue of Hawk 30 Day@170@1200@*Statue of Hawk 30 Day + 240 Goblin Point##*Increases Critical Damage + 10% This item can't be used with Statue of Hawk@@182@185@20111207173000@20151208103000@177@2@W Coin@W Coin@181@200@0@605|619|@6784@2@1@@0@508@669
+29@30@351@Statue of Goral@170@80@Increases Excellent Damage + 10% This item can't be used with Statue of Goral@@182@185@20111019025000@20151019195000@177@1@W Coin@W Coin@181@200@0@460|@6785@2@3@531|532|533|@0@508@669
+29@31@520@[+GP_EVENT] Statue of Goral 7 Day@170@400@*Statue of Goral 7 Day + 40 Goblin Point##*Increases Excellent Damage + 10% This item can't be used with Statue of Goral@@182@185@20111207173000@20151208103000@177@2@W Coin@W Coin@181@200@0@512|620|@6785@2@1@@0@508@669
+29@32@521@[+GP_EVENT] Statue of Goral 30 Day@170@1200@*Statue of Goral 30 Day + 240 Goblin Point##*Increases Excellent Damage + 10% This item can't be used with Statue of Goral@@182@185@20111207173000@20151208103000@177@2@W Coin@W Coin@181@200@0@605|621|@6785@2@1@@0@508@669
+29@33@196@Scroll Package A@170@320@Package item list (1Day)#Scroll of Wrath, Protection, Quickness##This item can be used with Quickness,Protection,Wrath,Wizardry,Health,Mana item.@@182@185@20110223045000@20150223215000@177@3@W Coin@W Coin@181@200@0@159|160|161|@7307@2@1@@0@508@669
+29@34@198@Scroll Package B@170@320@Package item list (1Day)#Scroll of Wizardry, Protection, Quickness##This item can be used with Quickness,Protection,Wrath,Wizardry,Health,Mana item.@@182@185@20110223050000@20150223220000@177@3@W Coin@W Coin@181@200@0@158|160|161|@7307@2@1@@0@508@669
+29@35@529@Scroll Package C@170@488@Package item list (1Day)#Scroll of Mana, Health, Wrath,Protection, Quickness, Battle##This item can be used with Quickness,Protection, Wrath, Wizardry, Health, Mana, Battle item.@0@182@185@0@0@177@0@W Coin@W Coin@181@200@0@0@7303@2@1@@0@508@669
+29@36@530@Scroll Package D@170@488@Package item list (1Day)#Scroll of Mana, Health, Wizardry,Protection, Quickness, Battle##This item can be used with Quickness, Protection, Wrath, Wizardry, Health,Mana, Battle item.#@0@182@185@0@0@177@0@W Coin@W Coin@181@200@0@0@7303@2@1@@0@508@669
+29@37@91@Scroll of Protection@170@100@Increases Defense by 60.#This item can be used with Quickness,Wrath,Wizardry,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@26|@7241@2@2@43|44|@0@508@669
+29@38@93@Scroll of Quickness@170@150@Increases Attack Speed by 15.#This item can be used with Protection,Wrath,Wizardry,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@25|@7240@2@2@41|42|@0@508@669
+29@39@89@Scroll of Wrath@170@150@Increases Attack Power by 30#This item can be used with Quickness,Protection,Wizardry,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@27|@7242@2@2@45|46|@0@508@669
+29@40@87@Scroll of Wizardry@170@150@Increases Wizardry by 30.#This item can be used with Quickness,Protection,Wrath,Mana and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@28|@7243@2@2@47|48|@0@508@669
+29@41@77@Scroll of Strengthener@170@150@Increases Excellent Damage by 20%.#You cannot use Scroll of Battle at the same time.@@182@185@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@37|@7266@2@2@60|61|@0@508@669
+29@42@79@Scroll of Battle@170@150@Increases Critical Damage by 20%#You cannot use Scroll of Strengthener at the same time.@@182@185@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@36|@7265@2@2@58|59|@0@508@669
+29@43@83@Scroll of Mana@170@100@Increases MP  by 300. #This item can be used with Quickness,Protection,Wrath,Wizardry and Health scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@30|@7245@2@2@51|52|@0@508@669
+29@44@85@Scroll of Health@170@100@Increases HP by 200.#This item can be used with Quickness,Protection,Wrath,Wizardry and Mana scroll.##You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20100526193000@20140527123000@177@1@W Coin@W Coin@181@200@0@29|@7244@2@2@49|50|@0@508@669
+30@1@31@Pet Panda@170@150@EXP 50% increase#collects Zen around #Increase defensive skill + 50@@182@184@20100526184000@20140527114000@177@1@W Coin@W Coin@181@200@0@60|@6736@2@3@99|100|1165|@0@508@669
+30@2@29@Pet Skeleton@170@150@Surrounding Zen is automatically collected#Attack power/Wizardry/Curse spell 20% increase#- Attack speed increase +10#- Exp 30% increase #-Wear it with Skeleton Transformation Ring and get 30% extra EXP#@@182@184@20100526184000@20140527114000@177@1@W Coin@W Coin@181@200@0@61|@6779@2@3@101|102|1166|@0@508@669
+30@3@11@Pet Unicorn@170@150@Collects zen automatically.#Zen increase +50%#Defensibility + 50#*Minimum Level:28@@182@184@20100526181000@20140527111000@177@1@W Coin@W Coin@181@200@0@72|@6762@2@3@121|122|1167|@0@508@669
+30@4@103@Demon@170@100@Increases Attack Power and Wizardry by 40%#Increases Attack Speed by 10@@182@184@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@20|@6720@2@3@31|32|33|@0@508@669
+30@5@101@Spirit of Guardian@170@100@Absorbs monster`s damage to your character by 30% #Increases Maximum Life by 50@@182@184@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@21|@6721@2@3@34|35|36|@0@508@669
+31@1@37@Panda Ring@170@50@Transform into Panda#Zen increase 50%#Damage /Wizardry /Curse +30@@182@184@20100526184000@20140527114000@177@1@W Coin@W Coin@181@200@0@57|@6732@2@3@93|94|1126|@0@508@669
+31@2@541@Brown Panda Ring@170@75@Attack power +40#Wizardry increase +40#Curse spell +40#Wear it with Pet Skeleton and get 30% extra EXP@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@905|@6733@2@3@1120|1121|1128|@0@508@669
+31@3@543@Pink Panda Ring@170@100@Attack power +40#Wizardry increase +40#Curse spell +40#Wear it with Pet Skeleton and get 30% extra EXP@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@907|@6734@2@3@1129|1130|1131|@0@508@669
+31@4@544@Skeleton Transformation Ring@170@50@Attack power +40#Wizardry increase +40#Curse spell +40#Wear it with Pet Skeleton and get 30% extra EXP@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@908|@6778@2@3@1133|1134|1135|@0@508@669
+31@5@550@Lethal Wizard's Ring@170@50@Increases attack power and wizardry by 15%#Attack Speed +10@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@914|@6763@2@3@1157|1158|1159|@0@508@669
+31@6@546@Topaz Ring@170@50@Increases automatic HP recovery rate by 3%#Increases the amount of Zen received for killing monsters by 30%@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@910|@6767@2@3@1141|1142|1143|@0@508@669
+31@7@547@Ruby Ring@170@50@Increases automatic HP recovery rate by 3%#Decreases damage received by 4%@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@911|@6766@2@3@1145|1146|1147|@0@508@669
+31@8@548@Sapphire Ring@170@50@Increases automatic HP recovery rate by 3%#Decreases damage received by 4%@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@912|@6765@2@3@1149|1150|1151|@0@508@669
+31@9@549@Amethyst Ring@170@50@Increases automatic HP recovery rate by 3%#Decreases damage received by 4%@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@913|@6768@2@3@1153|1154|1155|@0@508@669
+31@10@17@Emerald Necklace@170@90@HP Regen 3%#Attack speed+7@@182@184@20100526182000@20140527112000@177@1@W Coin@W Coin@181@200@0@67|@6770@2@2@113|114|@0@508@669
+31@11@15@Sapphire Necklace@170@90@HP Regen 3%#Mana recovery when kill monsters Character level/8@@182@184@20100526182000@20140527112000@177@1@W Coin@W Coin@181@200@0@68|@6771@2@2@115|116|@0@508@669
+31@12@551@Wizards Ring@170@30@Increases attack power and wizardry by 10%#Attack Speed +10@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@915|@6676@2@3@1161|1162|1164|@0@508@669
+32@1@534@Devil Square Ticket@170@0@The space of your storage can be expanded to the size 8*15.#In the case you already used this item you cannot use this item again.@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@898|@6702@2@1@1104|@0@508@669
+32@2@535@Blood Castle Ticket@170@0@The space of your storage can be expanded to the size 8*15.#In the case you already used this item you cannot use this item again.@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@899|@6703@2@1@1106|@0@508@669
+32@3@536@Kalima Ticket@170@0@The space of your storage can be expanded to the size 8*15.#In the case you already used this item you cannot use this item again.@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@900|@6704@2@1@1108|@0@508@669
+32@4@537@Gaion's Order@170@0@The space of your storage can be expanded to the size 8*15.#In the case you already used this item you cannot use this item again.@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@901|@7270@2@1@1110|@0@508@669
+32@5@538@Complete Secromicon@170@0@The space of your storage can be expanded to the size 8*15.#In the case you already used this item you cannot use this item again.@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@902|@7277@2@1@1112|@0@508@669
+34@1@914@Master Seal of Wealth@170@1500@Increases experience gained and improves item drop rate.#Master Level only#*You cannot use Master Seal of Ascension at the same time.@@182@185@0@0@177@1@GP@GP@181@200@0@1342|@6750@5@3@1941|1942|1943|@0@0@669
+34@2@915@Seal of Wealth@170@750@*Increases experience gained and improves item drop rate.#*Not applicable to Master Level.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Ascension at the same time.#@@182@185@0@0@177@1@GP@GP@181@200@0@1343|@6700@5@4@1945|1946|1947|1948|@0@0@669
+34@3@916@Scroll of Strengthener_7 Day@170@2800@Increases Excellent Damage by 20%.#This item can be used with Quickness, Protection, Wrath, Wizardry, Mana and Health scroll.#You cannot use Scroll of Battle at the same time.@@182@185@0@0@177@1@GP@GP@181@200@0@1344|@7266@5@1@1950|@0@0@669
+34@4@376@Scroll of Protection_7 Day@170@2000@Increases Defense by 60.#This item can be used with Quickness, Wrath, Wizardry, Mana and Health scroll.#You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20111108213000@20151109143000@177@1@GP@GP@181@200@0@491|@7241@5@1@570|@1@0@669
+34@5@378@Scroll of Mana_7 Day@170@2000@Increases MP  by 300. #This item can be used with Quickness, Protection, Wrath, Wizardry and Health scroll.#You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20111108214000@20151109144000@177@1@GP@GP@181@200@0@493|@7245@5@1@572|@1@0@669
+34@6@377@Scroll of Health_7 Day@170@2000@Increases HP by 200.#This item can be used with Quickness, Protection, Wrath, Wizardry and Mana scroll.#You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20111108213000@20151109143000@177@1@GP@GP@181@200@0@492|@7244@5@1@571|@1@0@669
+34@7@382@Scroll of Wrath_7 Day@170@2800@Increases Attack Power by 30.#This item can be used with Quickness, Protection, Wizardry, Mana and Health scroll.#You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20111108214000@20151109144000@177@1@GP@GP@181@200@0@497|@7242@5@1@576|@1@0@669
+34@8@383@Scroll of Wizardry_7 Day@170@2800@Increases Wizardry by 30.#This item can be used with Quickness, Protection, Wrath, Mana and Health scroll.#You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20111108214000@20151109144000@177@1@GP@GP@181@200@0@498|@7243@5@1@577|@1@0@669
+34@9@381@Scroll of Quickness_7 Day@170@2800@Increases Attack Speed by 15.#This item can be used with Protection, Wrath, Wizardry, Mana and Health scroll.#You can use this item with Battle or Strengthener scroll but Battle scroll can't be used with Strengthener scroll.@@182@185@20111108214000@20151109144000@177@1@GP@GP@181@200@0@496|@7240@5@1@575|@1@0@669
+34@10@379@Scroll of Battle_7 Day@170@2800@Increases Critical Damage by 20%.#This item can be used with Quickness, Protection, Wrath, Wizardry, Mana and Health scroll.#You cannot use Scroll of Strengthener at the same time.@@182@185@20111108214000@20151109144000@177@1@GP@GP@181@200@0@494|@7265@5@1@573|@1@0@669
+46@1@5@Elite SD Potion@170@40@SD recovery up to 65%#10EA - 40 W Coin#Purchased item will be moved to the storage. #To use this item please click USE button in your storage.@@182@185@20100526181000@20140527111000@177@1@W Coin@W Coin@181@200@0@76|@7301@2@1@129|@0@508@669
+46@2@97@Elite Healing Potion@170@20@Restores HP by 100% immediately#W Coin item cannot be neither traded nor thrown away.#20EA -  20 W Coin@@182@185@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@23|@7238@2@1@39|@0@508@669
+46@3@95@Elite Mana Potion@170@20@Restores MP by 100% immediately#W Coin item cannot be neither traded nor thrown away.#20EA -  20 W Coin@@182@185@20100526194000@20140527124000@177@1@W Coin@W Coin@181@200@0@24|@7239@2@1@40|@0@508@669
+56@1@465@[GP]Box of Kundun +5@170@3200@A random item can be obtained when the box is dropped on the field.#Better item can be obtained than Box of Kundun [+4] #Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen#Excellent Accessory#* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@563|@7179@5@1@650|@1@0@669
+56@2@464@[GP]Box of Kundun +4@170@2400@A random item can be obtained when the box is dropped on the field.#Better item can be obtained than Box of Kundun [+3] #Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen#Excellent Accessory#* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@562|@7179@5@1@649|@1@0@669
+56@3@463@[GP]Box of Kundun +3@170@1600@A random item can be obtained when the box is dropped on the field.#Better item can be obtained than Box of Kundun [+2] #Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen#Excellent Accessory#* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@561|@7179@5@1@648|@1@0@669
+56@4@462@[GP]Box of Kundun +2@170@800@A random item can be obtained when the box is dropped on the field.#Better item can be obtained than Box of Kundun [+1] #Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen#* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@560|@7179@5@1@647|@1@0@669
+56@5@461@[GP]Box of Kundun +1 @170@400@A random item can be obtained when the box is dropped on the field.#Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen##* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@559|@7179@5@1@646|@1@0@669
+58@1@694@Pinocchio (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1065|@8193@2@1@1403|@0@508@669
+58@2@695@Geppetto (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1067|@8195@2@1@1406|@0@508@669
+58@3@696@Blue Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1069|@8197@2@1@1409|@0@508@669
+58@4@697@Papa Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1071|@8199@2@1@1412|@0@508@669
+58@5@698@Baby Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1073|@8201@2@1@1415|@0@508@669
+58@6@699@Mama Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1075|@8203@2@1@1418|@0@508@669
+58@7@700@Woody (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1077|@8205@2@1@1421|@0@508@669
+58@8@745@Treasure Chest (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1173|@8207@2@1@1600|@0@508@669
+58@9@746@Treasure Hunter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1174|@8209@2@1@1602|@0@508@669
+58@10@747@Grass Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1175|@8213@2@1@1604|@0@508@669
+58@11@748@Tree Elf (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1176|@8211@2@1@1606|@0@508@669
+58@12@749@Leaf Mage (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1177|@8215@2@1@1608|@0@508@669
+58@13@750@Samba Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1178|@8217@2@1@1610|@0@508@669
+58@14@751@Rio (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1179|@8219@2@1@1612|@0@508@669
+58@15@752@Bateria (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1180|@8221@2@1@1614|@0@508@669
+58@16@753@Tiger (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1181|@8225@2@1@1616|@0@508@669
+58@17@754@Libra (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1182|@8227@2@1@1618|@0@508@669
+58@18@755@Scorpio (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1183|@8229@2@1@1620|@0@508@669
+58@19@756@Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1184|@8231@2@1@1622|@0@508@669
+58@20@757@Chicken (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1185|@8234@2@1@1624|@0@508@669
+58@21@758@Rooster (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1186|@8236@2@1@1626|@0@508@669
+58@22@759@Angry Rooster (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1187|@8238@2@1@1628|@0@508@669
+58@23@760@Lion (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1188|@8240@2@1@1630|@0@508@669
+58@24@761@Knight Instructor (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1189|@8242@2@1@1632|@0@508@669
+58@25@762@Blackbeard (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1190|@8244@2@1@1634|@0@508@669
+58@26@763@Toy Robot (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1191|@8246@2@1@1636|@0@508@669
+58@27@764@Adventure cat (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1192|@8248@2@1@1638|@0@508@669
+58@28@765@Rainy Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1193|@8252@2@1@1640|@0@508@669
+58@29@766@Scarecrow (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1194|@8254@2@1@1642|@0@508@669
+58@30@767@Zombie Articles (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1195|@8256@2@1@1644|@0@508@669
+58@31@768@Mr. Fishing King (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1196|@8258@2@1@1646|@0@508@669
+58@32@769@Snow Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1197|@8260@2@1@1648|@0@508@669
+58@33@770@Dodo Poodle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1198|@8264@2@1@1650|@0@508@669
+58@34@771@Shinan Beagle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1199|@8266@2@1@1652|@0@508@669
+58@35@772@Angry Bulldog (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1200|@8268@2@1@1654|@0@508@669
+58@36@773@Figure Queen (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1201|@8272@2@1@1656|@0@508@669
+58@37@774@Hockey Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1202|@8274@2@1@1658|@0@508@669
+58@38@775@Super Panda (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1203|@8278@2@1@1660|@0@508@669
+58@39@776@Belly Dancer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1204|@8280@2@1@1662|@0@508@669
+58@40@777@Strong Captain (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1205|@8282@2@1@1664|@0@508@669
+58@41@778@Strong Keeper (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1206|@8284@2@1@1666|@0@508@669
+58@42@779@Supreme Referee (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1207|@8286@2@1@1668|@0@508@669
+58@43@780@Hip-Hop Dino (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1208|@8288@2@1@1670|@0@508@669
+58@44@781@Beach Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1209|@8290@2@1@1672|@0@508@669
+58@45@782@Bead Master (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1210|@8292@2@1@1674|@0@508@669
+58@46@783@Apple Sword (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1211|@8296@2@1@1676|@0@508@669
+58@47@784@Hangul (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1212|@8294@2@1@1678|@0@508@669
+58@48@785@Flying Bread (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1213|@8298@2@1@1680|@0@508@669
+58@49@786@The Great Fairy Kara@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1214|@8299@2@1@1682|@0@508@669
+58@50@787@Great Wizard Eithamu@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1215|@8300@2@1@1684|@0@508@669
+58@51@788@Bell@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1216|@8301@2@1@1686|@0@508@669
+58@52@789@Lapa (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1217|@8303@2@1@1688|@0@508@669
+58@53@790@Knicks (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1218|@8305@2@1@1690|@0@508@669
+58@54@791@Serufan (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1219|@8307@2@1@1692|@0@508@669
+58@55@792@Medusa (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1220|@8309@2@1@1694|@0@508@669
+58@56@793@Balrog (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1221|@8311@2@1@1696|@0@508@669
+58@57@794@Hellmine (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1222|@8313@2@1@1698|@0@508@669
+58@58@795@Kundun (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1223|@8315@2@1@1700|@0@508@669
+58@59@796@Hydra (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1224|@8317@2@1@1702|@0@508@669
+58@60@797@Lord Silvester (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1225|@8319@2@1@1704|@0@508@669
+58@61@798@Nightmare (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1226|@8321@2@1@1706|@0@508@669
+58@62@799@Dark Phoenix (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1227|@8323@2@1@1708|@0@508@669
+58@63@800@Kairuku (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1228|@8325@2@1@1710|@0@508@669
+58@64@801@Legendary Warlock@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1229|@8326@2@1@1712|@0@508@669
+58@65@802@The Fairy Guardian@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1230|@8327@2@1@1714|@0@508@669
+58@66@804@Fairy Queen Runedil@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1232|@8330@2@1@1718|@0@508@669
+58@67@805@Magician Gaion Karein@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1233|@8331@2@1@1720|@0@508@669
+58@68@806@Fighter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1234|@8333@2@1@1722|@0@508@669
+58@69@807@Flower Leader Leah (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1235|@8335@2@1@1724|@0@508@669
+58@70@808@Shadow Phantom (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1236|@8337@2@1@1726|@0@508@669
+58@71@809@Warehouse Guardian (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1237|@8339@2@1@1728|@0@508@669
+58@72@810@Fairy Lara (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1238|@8341@2@1@1730|@0@508@669
+58@73@811@Tablet's Elpis@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1239|@8342@2@1@1732|@0@508@669
+58@74@812@Magic Swordsman Muren Rexmillon@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1240|@8343@2@1@1734|@0@508@669
+58@75@815@Dandelion Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1243|@8347@2@1@1740|@0@508@669
+58@76@814@Uma King (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1242|@8345@2@1@1738|@0@508@669
+58@77@816@Sea Lifeguard (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1244|@8349@2@1@1742|@0@508@669
+58@78@817@Night Song Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1245|@8351@2@1@1744|@0@508@669
+58@79@818@Snowboarder (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1246|@8353@2@1@1746|@0@508@669
+58@80@819@Luki (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1247|@8405@2@1@1748|@0@508@669
+58@81@820@Tony (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1248|@8407@2@1@1750|@0@508@669
+58@82@821@Nymph (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1249|@8409@2@1@1752|@0@508@669
+58@83@822@Safi (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1250|@8411@2@1@1754|@0@508@669
+58@84@823@William (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1251|@8416@2@1@1756|@0@508@669
+58@85@824@Paul (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1252|@8418@2@1@1758|@0@508@669
+58@86@825@Chiron (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1253|@8420@2@1@1760|@0@508@669
+58@87@826@Wooparoo (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1254|@8422@2@1@1762|@0@508@669
+58@88@827@Tibetton (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1255|@8424@2@1@1764|@0@508@669
+58@89@828@Witch (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1256|@8426@2@1@1766|@0@508@669
+58@90@829@Skull (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1257|@8428@2@1@1768|@0@508@669
+58@91@830@Pumpkie (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1258|@8430@2@1@1770|@0@508@669
+58@92@831@Lycan (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1259|@8436@2@1@1772|@0@508@669
+58@93@832@Torby (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1260|@8438@2@1@1774|@0@508@669
+58@94@833@Seiren (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1261|@8445@2@1@1776|@0@508@669
+58@95@834@Behemoth (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1262|@8447@2@1@1778|@0@508@669
+58@96@835@Loggle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1263|@8449@2@1@1780|@0@508@669
+58@97@836@Mino (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1264|@8451@2@1@1782|@0@508@669
+58@98@837@Hound (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1265|@8453@2@1@1784|@0@508@669
+58@99@838@Trive (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1266|@8455@2@1@1786|@0@508@669
+58@100@839@Vogan (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1267|@8457@2@1@1788|@0@508@669
+58@101@840@Cyclop (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1268|@8459@2@1@1790|@0@508@669
+58@102@841@Bonf (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1269|@8463@2@1@1792|@0@508@669
+58@103@842@Hawk (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1270|@8465@2@1@1794|@0@508@669
+58@104@843@Muty (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1271|@8467@2@1@1796|@0@508@669
+58@105@844@Mantis (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1272|@8471@2@1@1798|@0@508@669
+58@106@845@Scolpy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1273|@8473@2@1@1800|@0@508@669
+58@107@846@Chafer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1274|@8475@2@1@1802|@0@508@669
+58@108@847@Shogun (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1275|@8477@2@1@1804|@0@508@669
+58@109@848@Ninja (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1276|@8479@2@1@1806|@0@508@669
+58@110@849@Samurai (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1277|@8481@2@1@1808|@0@508@669
+58@111@850@Taaf (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1278|@8493@2@1@1810|@0@508@669
+58@112@851@Sporty Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1279|@8487@2@1@1812|@0@508@669
+58@113@852@Frozen (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1280|@8495@2@1@1814|@0@508@669
+58@114@853@Lure (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1281|@8497@2@1@1816|@0@508@669
+58@115@854@Fur Seal (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1282|@8499@2@1@1818|@0@508@669
+58@116@855@Lucky Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1283|@8501@2@1@1820|@0@508@669
+58@117@856@Mortar Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1284|@8505@2@1@1822|@0@508@669
+58@118@857@Mooncake Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1285|@8503@2@1@1824|@0@508@669
+58@119@858@Tarius (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1286|@8507@2@1@1826|@0@508@669
+58@120@859@Rainer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1287|@8509@2@1@1828|@0@508@669
+58@121@860@Alkamo (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1288|@8511@2@1@1830|@0@508@669
+58@122@861@Glacuse (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1289|@8513@2@1@1832|@0@508@669
+58@123@862@Kenturion (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1290|@8515@2@1@1834|@0@508@669
+58@124@863@Rocka (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1291|@8517@2@1@1836|@0@508@669
+58@125@864@Repen (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1292|@8519@2@1@1838|@0@508@669
+58@126@865@Pawn (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1293|@8521@2@1@1840|@0@508@669
+58@127@866@Griffs (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1294|@8523@2@1@1842|@0@508@669
+58@128@867@Polar Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1295|@8525@2@1@1844|@0@508@669
+58@129@868@Present (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1296|@8527@2@1@1846|@0@508@669
+58@130@869@Rocking Horse (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1297|@8529@2@1@1848|@0@508@669
+58@131@870@Aries (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1298|@8531@2@1@1850|@0@508@669
+58@132@871@Lester (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1299|@8533@2@1@1852|@0@508@669
+58@133@872@Merino (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1300|@8535@2@1@1854|@0@508@669
+58@134@873@Splinter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1301|@8537@2@1@1856|@0@508@669
+58@135@874@Mutation (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1302|@8539@2@1@1858|@0@508@669
+58@136@875@Fighter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1303|@8541@2@1@1860|@0@508@669
+58@137@876@Heywood (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1304|@8602@2@1@1862|@0@508@669
+58@138@877@Branch (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1305|@8604@2@1@1864|@0@508@669
+58@139@878@Hook (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1306|@8606@2@1@1866|@0@508@669
+58@140@879@Carnifle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1307|@8608@2@1@1868|@0@508@669
+58@141@880@Mandora (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1308|@8610@2@1@1870|@0@508@669
+58@142@881@Treat (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1309|@8612@2@1@1872|@0@508@669
+58@143@882@Rose Spirit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1310|@8614@2@1@1874|@0@508@669
+58@144@883@Freesia Spirit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1311|@8616@2@1@1876|@0@508@669
+58@145@884@Cherry Blossom Spirit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1312|@8618@2@1@1878|@0@508@669
+58@146@886@Gigantes (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1314|@8620@2@1@1882|@0@508@669
+58@147@887@Mammoth (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1315|@8622@2@1@1884|@0@508@669
+58@148@888@Walker (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1316|@8624@2@1@1886|@0@508@669
+58@149@889@Surfing Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1317|@8626@2@1@1888|@0@508@669
+58@150@890@Swim Tube Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1318|@8628@2@1@1890|@0@508@669
+58@151@891@Snorkeling Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1319|@8630@2@1@1892|@0@508@669
+58@152@892@Commander (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1320|@8632@2@1@1894|@0@508@669
+58@153@893@Lance Soldier (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1321|@8634@2@1@1896|@0@508@669
+58@154@894@Bow Soldier (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1322|@8636@2@1@1898|@0@508@669
+58@155@895@Refear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1323|@8640@2@1@1900|@0@508@669
+58@156@896@Hammer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1324|@8638@2@1@1902|@0@508@669
+58@157@897@Pumpkin Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1325|@8644@2@1@1904|@0@508@669
+58@158@898@Chrysanthemum (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1326|@8650@2@1@1906|@0@508@669
+58@159@899@Mummy Boy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1327|@8648@2@1@1908|@0@508@669
+58@160@900@Ginkgo (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1328|@8654@2@1@1910|@0@508@669
+58@161@901@Maple (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1329|@8652@2@1@1912|@0@508@669
+58@162@902@Toy Soldier (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1330|@8673@2@1@1914|@0@508@669
+58@163@903@Snowman (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1331|@8677@2@1@1916|@0@508@669
+58@164@904@Christmas Tree (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1332|@8675@2@1@1918|@0@508@669
+58@165@905@Busker Monkey (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1333|@8679@2@1@1920|@0@508@669
+58@166@906@DJ Monkey (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1334|@8681@2@1@1922|@0@508@669
+58@167@907@Space Monkey (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1335|@8683@2@1@1924|@0@508@669
+58@168@908@Little Cupid (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1336|@8685@2@1@1926|@0@508@669
+58@169@910@Chocolate Cookie (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1338|@8687@2@1@1930|@0@508@669
+58@170@909@Heart Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1337|@8689@2@1@1928|@0@508@669
+58@171@911@Lollipop Mama (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1339|@8693@2@1@1932|@0@508@669
+58@172@912@Sweet Muscle Man (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1340|@8695@2@1@1934|@0@508@669
+59@1@655@Talisman of Ascension I@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1019|@6833@2@1@1274|@0@508@669
+59@2@662@Talisman of Ascension II@170@750@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1030|@6834@2@1@1292|@0@508@669
+59@3@663@Talisman of Ascension III@170@1000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1031|@6835@2@1@1294|@0@508@669
+59@4@664@Master Seal of Ascension II@170@1250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1032|@6837@2@1@1296|@0@508@669
+59@5@703@Bless of Light (Low Grade)@170@100@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1080|@7431@2@1@1427|@0@508@669
+59@6@704@Bless of Light (Middle Grade)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1081|@7432@2@1@1429|@0@508@669
+59@7@705@[Bound] Bless of Light (Greater)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1082|@7539@2@1@1431|@0@508@669
+60@1@679@Wings of Spirit@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1049|@6147@5@3@1342|1343|1952|@0@0@669
+60@2@681@Wings of Dragon@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1051|@6149@5@3@1350|1351|1352|@0@0@669
+60@3@680@Wings of Soul@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1050|@6148@5@3@1346|1347|1348|@0@0@669
+60@4@682@Wings of Despair@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1052|@6186@5@3@1354|1355|1356|@0@0@669
+60@5@683@Cape of Fighter@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1053|@6193@5@3@1358|1359|1360|@0@0@669
+60@6@684@Cape of Lord@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1054|@6686@5@3@1362|1363|1364|@0@0@669
+60@7@685@Wings of Darkness@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1055|@6150@5@3@1366|1367|1368|@0@0@669
+60@8@917@Black Cloak@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1345|@6318@5@3@1953|1954|1955|@0@0@669
+60@9@687@Cloak of Innocence@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1057|@6300@5@3@1374|1375|1376|@0@0@669
+61@1@688@Pet Panda@170@500@EXP 50% increase#collects Zen around #Increase defensive skill + 50@@182@184@0@0@177@1@GP@GP@181@200@0@1058|@6736@5@3@1378|1379|1380|@0@0@669
+61@2@689@Pet Skeleton@170@500@Surrounding Zen is automatically collected#Attack power/Wizardry/Curse spell 20% increase#- Attack speed increase +10#- Exp 30% increase #-Wear it with Skeleton Transformation Ring and get 30% extra EXP#@@182@184@0@0@177@1@GP@GP@181@200@0@1059|@6779@5@3@1382|1383|1384|@0@0@669
+61@3@690@Demon@170@500@Increases Attack Power and Wizardry by 40%#Increases Attack Speed by 10@@182@184@0@0@177@1@GP@GP@181@200@0@1060|@6720@5@3@1386|1387|1388|@0@0@669
+62@1@691@Panda Ring@170@250@Transform into Panda#Zen increase 50%#Damage /Wizardry /Curse +30@@182@184@0@0@177@1@GP@GP@181@200@0@1061|@6732@5@3@1390|1391|1392|@0@0@669
+62@2@692@Lethal Wizard's Ring@170@250@Increases attack power and wizardry by 15%#Attack Speed +10@@182@184@0@0@177@1@GP@GP@181@200@0@1062|@6763@5@3@1394|1395|1396|@0@0@669
+62@3@693@Wizards Ring@170@150@Increases attack power and wizardry by 10%#Attack Speed +10@@182@184@0@0@177@1@GP@GP@181@200@0@1063|@6676@5@3@1398|1399|1400|@0@0@669
+63@1@919@Dark Horse@170@1000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1347|@6660@2@1@1961|@0@508@669
+64@1@706@Capsule (Fire)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1083|@7464@2@1@1433|@0@508@669
+64@2@707@Capsule(Earth)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1084|@7505@2@1@1435|@0@508@669
+64@3@708@Capsule(Water)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1085|@7506@2@1@1437|@0@508@669
+64@4@709@Capsule(Wind)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1086|@7507@2@1@1439|@0@508@669
+64@5@710@Capsule(Darkness)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1087|@7508@2@1@1441|@0@508@669
+64@6@711@Seed Capsule (Fire)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1088|@7546@2@1@1443|@0@508@669
+64@7@712@Seed Capsule (Water)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1089|@7547@2@1@1445|@0@508@669
+64@8@713@Seed Capsule (Ice)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1090|@7548@2@1@1447|@0@508@669
+64@9@714@Seed Capsule (Wind)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1091|@7549@2@1@1449|@0@508@669
+64@10@715@Seed Capsule (Lightning)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1092|@7550@2@1@1451|@0@508@669
+64@11@716@Seed Capsule (Earth)@170@250@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1093|@7551@2@1@1453|@0@508@669
+64@12@717@Sphere Upgrade Rune Capsule@170@100@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1094|@7552@2@1@1455|@0@508@669
+65@1@738@Talisman of Chaos Assembly@170@100@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1166|@7264@2@1@1576|@0@508@669
+65@2@737@Elemental Talisman of Chaos@170@150@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1165|@7358@2@3@1572|1573|1574|@0@508@669
+65@3@739@Talisman of Luck@170@20@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1167|@7221@2@1@1578|@0@508@669
+65@4@744@Talisman Element Change@170@100@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1172|@7485@2@3@1596|1597|1598|@0@508@669
+65@5@743@Elemental Talisman of Luck@170@50@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1171|@7357@2@3@1592|1593|1594|@0@508@669
+65@6@723@Magic Backpack@170@100@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1143|@7330@2@3@1516|1517|1518|@0@508@669
+65@7@725@Vault Expansion Certificate@170@100@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1145|@7331@2@3@1524|1525|1526|@0@508@669
+66@1@727@Talisman of Chaos Assembly@170@1000@@@182@185@0@0@177@1@GP@GP@181@200@0@1155|@7264@5@1@1540|@0@0@669
+66@2@728@Elemental Talisman of Chaos@170@1500@@@182@185@0@0@177@1@GP@GP@181@200@0@1156|@7358@5@3@1542|1543|1544|@0@0@669
+66@3@729@Talisman of Luck@170@200@@@182@185@0@0@177@1@GP@GP@181@200@0@1157|@7221@5@1@1546|@0@0@669
+66@4@730@Talisman Element Change@170@1000@@@182@185@0@0@177@1@GP@GP@181@200@0@1158|@7485@5@3@1548|1549|1550|@0@0@669
+66@5@731@Elemental Talisman of Luck@170@500@@@182@185@0@0@177@1@GP@GP@181@200@0@1159|@7357@5@3@1552|1553|1554|@0@0@669
+66@6@732@Magic Backpack@170@1000@@@182@185@0@0@177@1@GP@GP@181@200@0@1160|@7330@5@3@1556|1557|1558|@0@0@669
+66@7@733@Vault Expansion Certificate@170@1000@@@182@185@0@0@177@1@GP@GP@181@200@0@1161|@7331@5@3@1560|1561|1562|@0@0@669
+67@1@918@[Bound] Bless of Light (Low Grade) x50@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1346|@7541@5@3@1957|1958|1959|@0@0@669
