@@ -84,178 +84,61 @@
 56@3@463@[GP]Box of Kundun +3@170@1600@A random item can be obtained when the box is dropped on the field.#Better item can be obtained than Box of Kundun [+2] #Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen#Excellent Accessory#* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@561|@7179@5@1@648|@1@0@669
 56@4@462@[GP]Box of Kundun +2@170@800@A random item can be obtained when the box is dropped on the field.#Better item can be obtained than Box of Kundun [+1] #Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen#* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@560|@7179@5@1@647|@1@0@669
 56@5@461@[GP]Box of Kundun +1 @170@400@A random item can be obtained when the box is dropped on the field.#Drop Item List#Excellent Weapon#Excellent Armor#Jewel#Zen##* Please keep the spare space in your inventory@@182@185@20111123223000@20151124153000@177@1@GP@GP@181@200@0@559|@7179@5@1@646|@1@0@669
-58@1@694@Pinocchio (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1065|@8193@2@1@1403|@0@508@669
-58@2@695@Geppetto (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1067|@8195@2@1@1406|@0@508@669
-58@3@696@Blue Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1069|@8197@2@1@1409|@0@508@669
-58@4@697@Papa Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1071|@8199@2@1@1412|@0@508@669
-58@5@698@Baby Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1073|@8201@2@1@1415|@0@508@669
-58@6@699@Mama Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1075|@8203@2@1@1418|@0@508@669
-58@7@700@Woody (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1077|@8205@2@1@1421|@0@508@669
-58@8@745@Treasure Chest (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1173|@8207@2@1@1600|@0@508@669
-58@9@746@Treasure Hunter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1174|@8209@2@1@1602|@0@508@669
-58@10@747@Grass Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1175|@8213@2@1@1604|@0@508@669
-58@11@748@Tree Elf (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1176|@8211@2@1@1606|@0@508@669
-58@12@749@Leaf Mage (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1177|@8215@2@1@1608|@0@508@669
-58@13@750@Samba Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1178|@8217@2@1@1610|@0@508@669
-58@14@751@Rio (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1179|@8219@2@1@1612|@0@508@669
-58@15@752@Bateria (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1180|@8221@2@1@1614|@0@508@669
-58@16@753@Tiger (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1181|@8225@2@1@1616|@0@508@669
-58@17@754@Libra (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1182|@8227@2@1@1618|@0@508@669
-58@18@755@Scorpio (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1183|@8229@2@1@1620|@0@508@669
-58@19@756@Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1184|@8231@2@1@1622|@0@508@669
-58@20@757@Chicken (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1185|@8234@2@1@1624|@0@508@669
-58@21@758@Rooster (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1186|@8236@2@1@1626|@0@508@669
-58@22@759@Angry Rooster (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1187|@8238@2@1@1628|@0@508@669
-58@23@760@Lion (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1188|@8240@2@1@1630|@0@508@669
-58@24@761@Knight Instructor (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1189|@8242@2@1@1632|@0@508@669
-58@25@762@Blackbeard (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1190|@8244@2@1@1634|@0@508@669
-58@26@763@Toy Robot (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1191|@8246@2@1@1636|@0@508@669
-58@27@764@Adventure cat (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1192|@8248@2@1@1638|@0@508@669
-58@28@765@Rainy Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1193|@8252@2@1@1640|@0@508@669
-58@29@766@Scarecrow (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1194|@8254@2@1@1642|@0@508@669
-58@30@767@Zombie Articles (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1195|@8256@2@1@1644|@0@508@669
-58@31@768@Mr. Fishing King (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1196|@8258@2@1@1646|@0@508@669
-58@32@769@Snow Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1197|@8260@2@1@1648|@0@508@669
-58@33@770@Dodo Poodle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1198|@8264@2@1@1650|@0@508@669
-58@34@771@Shinan Beagle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1199|@8266@2@1@1652|@0@508@669
-58@35@772@Angry Bulldog (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1200|@8268@2@1@1654|@0@508@669
-58@36@773@Figure Queen (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1201|@8272@2@1@1656|@0@508@669
-58@37@774@Hockey Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1202|@8274@2@1@1658|@0@508@669
-58@38@775@Super Panda (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1203|@8278@2@1@1660|@0@508@669
-58@39@776@Belly Dancer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1204|@8280@2@1@1662|@0@508@669
-58@40@777@Strong Captain (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1205|@8282@2@1@1664|@0@508@669
-58@41@778@Strong Keeper (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1206|@8284@2@1@1666|@0@508@669
-58@42@779@Supreme Referee (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1207|@8286@2@1@1668|@0@508@669
-58@43@780@Hip-Hop Dino (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1208|@8288@2@1@1670|@0@508@669
-58@44@781@Beach Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1209|@8290@2@1@1672|@0@508@669
-58@45@782@Bead Master (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1210|@8292@2@1@1674|@0@508@669
-58@46@783@Apple Sword (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1211|@8296@2@1@1676|@0@508@669
-58@47@784@Hangul (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1212|@8294@2@1@1678|@0@508@669
-58@48@785@Flying Bread (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1213|@8298@2@1@1680|@0@508@669
-58@49@786@The Great Fairy Kara@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1214|@8299@2@1@1682|@0@508@669
-58@50@787@Great Wizard Eithamu@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1215|@8300@2@1@1684|@0@508@669
-58@51@788@Bell@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1216|@8301@2@1@1686|@0@508@669
-58@52@789@Lapa (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1217|@8303@2@1@1688|@0@508@669
-58@53@790@Knicks (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1218|@8305@2@1@1690|@0@508@669
-58@54@791@Serufan (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1219|@8307@2@1@1692|@0@508@669
-58@55@792@Medusa (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1220|@8309@2@1@1694|@0@508@669
-58@56@793@Balrog (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1221|@8311@2@1@1696|@0@508@669
-58@57@794@Hellmine (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1222|@8313@2@1@1698|@0@508@669
-58@58@795@Kundun (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1223|@8315@2@1@1700|@0@508@669
-58@59@796@Hydra (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1224|@8317@2@1@1702|@0@508@669
-58@60@797@Lord Silvester (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1225|@8319@2@1@1704|@0@508@669
-58@61@798@Nightmare (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1226|@8321@2@1@1706|@0@508@669
-58@62@799@Dark Phoenix (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1227|@8323@2@1@1708|@0@508@669
-58@63@800@Kairuku (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1228|@8325@2@1@1710|@0@508@669
-58@64@801@Legendary Warlock@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1229|@8326@2@1@1712|@0@508@669
-58@65@802@The Fairy Guardian@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1230|@8327@2@1@1714|@0@508@669
-58@66@804@Fairy Queen Runedil@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1232|@8330@2@1@1718|@0@508@669
-58@67@805@Magician Gaion Karein@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1233|@8331@2@1@1720|@0@508@669
-58@68@806@Fighter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1234|@8333@2@1@1722|@0@508@669
-58@69@807@Flower Leader Leah (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1235|@8335@2@1@1724|@0@508@669
-58@70@808@Shadow Phantom (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1236|@8337@2@1@1726|@0@508@669
-58@71@809@Warehouse Guardian (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1237|@8339@2@1@1728|@0@508@669
-58@72@810@Fairy Lara (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1238|@8341@2@1@1730|@0@508@669
-58@73@811@Tablet's Elpis@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1239|@8342@2@1@1732|@0@508@669
-58@74@812@Magic Swordsman Muren Rexmillon@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1240|@8343@2@1@1734|@0@508@669
-58@75@815@Dandelion Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1243|@8347@2@1@1740|@0@508@669
-58@76@814@Uma King (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1242|@8345@2@1@1738|@0@508@669
-58@77@816@Sea Lifeguard (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1244|@8349@2@1@1742|@0@508@669
-58@78@817@Night Song Fairy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1245|@8351@2@1@1744|@0@508@669
-58@79@818@Snowboarder (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1246|@8353@2@1@1746|@0@508@669
-58@80@819@Luki (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1247|@8405@2@1@1748|@0@508@669
-58@81@820@Tony (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1248|@8407@2@1@1750|@0@508@669
-58@82@821@Nymph (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1249|@8409@2@1@1752|@0@508@669
-58@83@822@Safi (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1250|@8411@2@1@1754|@0@508@669
-58@84@823@William (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1251|@8416@2@1@1756|@0@508@669
-58@85@824@Paul (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1252|@8418@2@1@1758|@0@508@669
-58@86@825@Chiron (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1253|@8420@2@1@1760|@0@508@669
-58@87@826@Wooparoo (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1254|@8422@2@1@1762|@0@508@669
-58@88@827@Tibetton (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1255|@8424@2@1@1764|@0@508@669
-58@89@828@Witch (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1256|@8426@2@1@1766|@0@508@669
-58@90@829@Skull (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1257|@8428@2@1@1768|@0@508@669
-58@91@830@Pumpkie (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1258|@8430@2@1@1770|@0@508@669
-58@92@831@Lycan (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1259|@8436@2@1@1772|@0@508@669
-58@93@832@Torby (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1260|@8438@2@1@1774|@0@508@669
-58@94@833@Seiren (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1261|@8445@2@1@1776|@0@508@669
-58@95@834@Behemoth (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1262|@8447@2@1@1778|@0@508@669
-58@96@835@Loggle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1263|@8449@2@1@1780|@0@508@669
-58@97@836@Mino (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1264|@8451@2@1@1782|@0@508@669
-58@98@837@Hound (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1265|@8453@2@1@1784|@0@508@669
-58@99@838@Trive (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1266|@8455@2@1@1786|@0@508@669
-58@100@839@Vogan (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1267|@8457@2@1@1788|@0@508@669
-58@101@840@Cyclop (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1268|@8459@2@1@1790|@0@508@669
-58@102@841@Bonf (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1269|@8463@2@1@1792|@0@508@669
-58@103@842@Hawk (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1270|@8465@2@1@1794|@0@508@669
-58@104@843@Muty (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1271|@8467@2@1@1796|@0@508@669
-58@105@844@Mantis (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1272|@8471@2@1@1798|@0@508@669
-58@106@845@Scolpy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1273|@8473@2@1@1800|@0@508@669
-58@107@846@Chafer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1274|@8475@2@1@1802|@0@508@669
-58@108@847@Shogun (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1275|@8477@2@1@1804|@0@508@669
-58@109@848@Ninja (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1276|@8479@2@1@1806|@0@508@669
-58@110@849@Samurai (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1277|@8481@2@1@1808|@0@508@669
-58@111@850@Taaf (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1278|@8493@2@1@1810|@0@508@669
-58@112@851@Sporty Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1279|@8487@2@1@1812|@0@508@669
-58@113@852@Frozen (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1280|@8495@2@1@1814|@0@508@669
-58@114@853@Lure (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1281|@8497@2@1@1816|@0@508@669
-58@115@854@Fur Seal (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1282|@8499@2@1@1818|@0@508@669
-58@116@855@Lucky Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1283|@8501@2@1@1820|@0@508@669
-58@117@856@Mortar Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1284|@8505@2@1@1822|@0@508@669
-58@118@857@Mooncake Rabbit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1285|@8503@2@1@1824|@0@508@669
-58@119@858@Tarius (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1286|@8507@2@1@1826|@0@508@669
-58@120@859@Rainer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1287|@8509@2@1@1828|@0@508@669
-58@121@860@Alkamo (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1288|@8511@2@1@1830|@0@508@669
-58@122@861@Glacuse (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1289|@8513@2@1@1832|@0@508@669
-58@123@862@Kenturion (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1290|@8515@2@1@1834|@0@508@669
-58@124@863@Rocka (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1291|@8517@2@1@1836|@0@508@669
-58@125@864@Repen (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1292|@8519@2@1@1838|@0@508@669
-58@126@865@Pawn (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1293|@8521@2@1@1840|@0@508@669
-58@127@866@Griffs (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1294|@8523@2@1@1842|@0@508@669
-58@128@867@Polar Bear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1295|@8525@2@1@1844|@0@508@669
-58@129@868@Present (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1296|@8527@2@1@1846|@0@508@669
-58@130@869@Rocking Horse (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1297|@8529@2@1@1848|@0@508@669
-58@131@870@Aries (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1298|@8531@2@1@1850|@0@508@669
-58@132@871@Lester (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1299|@8533@2@1@1852|@0@508@669
-58@133@872@Merino (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1300|@8535@2@1@1854|@0@508@669
-58@134@873@Splinter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1301|@8537@2@1@1856|@0@508@669
-58@135@874@Mutation (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1302|@8539@2@1@1858|@0@508@669
-58@136@875@Fighter (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1303|@8541@2@1@1860|@0@508@669
-58@137@876@Heywood (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1304|@8602@2@1@1862|@0@508@669
-58@138@877@Branch (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1305|@8604@2@1@1864|@0@508@669
-58@139@878@Hook (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1306|@8606@2@1@1866|@0@508@669
-58@140@879@Carnifle (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1307|@8608@2@1@1868|@0@508@669
-58@141@880@Mandora (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1308|@8610@2@1@1870|@0@508@669
-58@142@881@Treat (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1309|@8612@2@1@1872|@0@508@669
-58@143@882@Rose Spirit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1310|@8614@2@1@1874|@0@508@669
-58@144@883@Freesia Spirit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1311|@8616@2@1@1876|@0@508@669
-58@145@884@Cherry Blossom Spirit (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1312|@8618@2@1@1878|@0@508@669
-58@146@886@Gigantes (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1314|@8620@2@1@1882|@0@508@669
-58@147@887@Mammoth (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1315|@8622@2@1@1884|@0@508@669
-58@148@888@Walker (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1316|@8624@2@1@1886|@0@508@669
-58@149@889@Surfing Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1317|@8626@2@1@1888|@0@508@669
-58@150@890@Swim Tube Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1318|@8628@2@1@1890|@0@508@669
-58@151@891@Snorkeling Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1319|@8630@2@1@1892|@0@508@669
-58@152@892@Commander (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1320|@8632@2@1@1894|@0@508@669
-58@153@893@Lance Soldier (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1321|@8634@2@1@1896|@0@508@669
-58@154@894@Bow Soldier (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1322|@8636@2@1@1898|@0@508@669
-58@155@895@Refear (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1323|@8640@2@1@1900|@0@508@669
-58@156@896@Hammer (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1324|@8638@2@1@1902|@0@508@669
-58@157@897@Pumpkin Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1325|@8644@2@1@1904|@0@508@669
-58@158@898@Chrysanthemum (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1326|@8650@2@1@1906|@0@508@669
-58@159@899@Mummy Boy (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1327|@8648@2@1@1908|@0@508@669
-58@160@900@Ginkgo (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1328|@8654@2@1@1910|@0@508@669
-58@161@901@Maple (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1329|@8652@2@1@1912|@0@508@669
-58@162@902@Toy Soldier (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1330|@8673@2@1@1914|@0@508@669
-58@163@903@Snowman (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1331|@8677@2@1@1916|@0@508@669
-58@164@904@Christmas Tree (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1332|@8675@2@1@1918|@0@508@669
-58@165@905@Busker Monkey (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1333|@8679@2@1@1920|@0@508@669
-58@166@906@DJ Monkey (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1334|@8681@2@1@1922|@0@508@669
-58@167@907@Space Monkey (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1335|@8683@2@1@1924|@0@508@669
-58@168@908@Little Cupid (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1336|@8685@2@1@1926|@0@508@669
-58@169@910@Chocolate Cookie (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1338|@8687@2@1@1930|@0@508@669
-58@170@909@Heart Girl (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1337|@8689@2@1@1928|@0@508@669
-58@171@911@Lollipop Mama (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1339|@8693@2@1@1932|@0@508@669
-58@172@912@Sweet Muscle Man (Evolved)@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1340|@8695@2@1@1934|@0@508@669
+58@1@953@Hangul (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1381|@8294@2@1@2029|@0@508@669
+58@2@954@Apple Sword (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1382|@8296@2@1@2031|@0@508@669
+58@3@955@Flying Bread (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1383|@8298@2@1@2033|@0@508@669
+58@4@956@Kara (Premium)@170@2000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +15  (Non PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1384|@8299@2@1@2035|@0@508@669
+58@5@957@Eithamu (Premium)@170@2000@If Wed, Thu, Fri, Sat, Sun, Defense increase +10 (Non Pvp)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1385|@8300@2@1@2037|@0@508@669
+58@6@926@Dragon Articles@170@1000@If Wed, Thu, Fri, Sat, Sun, If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1354|@8223@2@1@1975|@0@508@669
+58@7@927@Tiger (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1355|@8225@2@1@1977|@0@508@669
+58@8@928@Libra (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1356|@8227@2@1@1979|@0@508@669
+58@9@929@Scorpio (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1357|@8229@2@1@1981|@0@508@669
+58@10@958@Bell@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1386|@8301@2@1@2039|@0@508@669
+58@11@931@Chicken (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1359|@8234@2@1@1985|@0@508@669
+58@12@932@Lion (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1360|@8240@2@1@1987|@0@508@669
+58@13@933@Knight Instructor (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1361|@8242@2@1@1989|@0@508@669
+58@14@934@Blackbeard (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1362|@8244@2@1@1991|@0@508@669
+58@15@935@Toy Robot (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1363|@8246@2@1@1993|@0@508@669
+58@16@936@Adventure cat (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1364|@8248@2@1@1995|@0@508@669
+58@17@937@Dike (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1365|@8250@2@1@1997|@0@508@669
+58@18@938@Rainy Girl (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1366|@8252@2@1@1999|@0@508@669
+58@19@939@Scarecrow (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1367|@8254@2@1@2001|@0@508@669
+58@20@940@Zombie Articles (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1368|@8256@2@1@2003|@0@508@669
+58@21@941@Mr. Fishing King (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1369|@8258@2@1@2005|@0@508@669
+58@22@942@Snow Fairy (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1370|@8260@2@1@2007|@0@508@669
+58@23@943@Prince (Premium)@170@2000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +15  (Non PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1371|@8261@2@1@2009|@0@508@669
+58@24@944@Rex Millon (Premium)@170@2000@If Wed, Thu, Fri, Sat, Sun, Defense increase +10 (Non Pvp)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1372|@8262@2@1@2011|@0@508@669
+58@25@945@Dodo Poodle (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1373|@8264@2@1@2013|@0@508@669
+58@26@946@Pilot (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1374|@8276@2@1@2015|@0@508@669
+58@27@947@Super Panda (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1375|@8278@2@1@2017|@0@508@669
+58@28@948@Belly Dancer (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1376|@8280@2@1@2019|@0@508@669
+58@29@949@Strong Captain (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1377|@8282@2@1@2021|@0@508@669
+58@30@950@Hip-Hop Dino (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1378|@8288@2@1@2023|@0@508@669
+58@31@951@Beach Girl (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1379|@8290@2@1@2025|@0@508@669
+58@32@952@Bead Master (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1380|@8292@2@1@2027|@0@508@669
+58@33@959@Lapa (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1387|@8303@2@1@2041|@0@508@669
+58@34@960@Knicks (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1388|@8305@2@1@2043|@0@508@669
+58@35@961@Serufan (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1389|@8307@2@1@2045|@0@508@669
+58@36@962@Medusa (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1390|@8309@2@1@2047|@0@508@669
+58@37@963@Balrog (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1391|@8311@2@1@2049|@0@508@669
+58@38@964@Hellmine (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1392|@8313@2@1@2051|@0@508@669
+58@39@965@Kundun (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1393|@8315@2@1@2053|@0@508@669
+58@40@966@Hydra (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1394|@8317@2@1@2055|@0@508@669
+58@41@967@Lord Silvester (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1395|@8319@2@1@2057|@0@508@669
+58@42@968@Nightmare (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +24 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1396|@8321@2@1@2059|@0@508@669
+58@43@969@Dark Phoenix (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Max Damage/Magical Damage/Curse by +24 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1397|@8323@2@1@2061|@0@508@669
+58@44@970@Legendary Warlock@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1398|@8326@2@1@2063|@0@508@669
+58@45@971@Runedil (Premium)@170@2000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +15  (Non PVP)@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1399|@8330@2@1@2065|@0@508@669
+58@46@972@Karein (Premium)@170@2000@If Wed, Thu, Fri, Sat, Sun, Defense increase +10 (Non Pvp)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1400|@8331@2@1@2067|@0@508@669
+58@47@973@Fighter (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1401|@8333@2@1@2069|@0@508@669
+58@48@974@Flower Leader Leah (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)##@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1402|@8335@2@1@2071|@0@508@669
+58@49@975@Shadow Phantom (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1403|@8337@2@1@2073|@0@508@669
+58@50@976@Warehouse Guardian (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1404|@8339@2@1@2075|@0@508@669
+58@51@977@Fairy Lara (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +19 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1405|@8341@2@1@2077|@0@508@669
+58@52@978@Tablet's Elpis (Premium)@170@2000@If Wed, Thu, Fri, Sat, Sun, Increases Skill Damage +15  (Non PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1406|@8342@2@1@2079|@0@508@669
+58@53@979@Repen (Evolved)@170@1000@Increases Elemental Damage by +14@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1407|@8519@2@1@2081|@0@508@669
+58@54@980@Pawn (Evolved)@170@1000@Increases Elemental Defense by +11#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1408|@8521@2@1@2083|@0@508@669
+58@55@981@Griffs (Evolved)@170@1000@If Wed, Thu, Fri, Sat, Sun, Increases Damage/Magical Damage/Curse by +14 (PVP)#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1409|@8523@2@1@2085|@0@508@669
 59@1@655@Talisman of Ascension I@170@500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1019|@6833@2@1@1274|@0@508@669
 59@2@662@Talisman of Ascension II@170@750@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1030|@6834@2@1@1292|@0@508@669
 59@3@663@Talisman of Ascension III@170@1000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1031|@6835@2@1@1294|@0@508@669
