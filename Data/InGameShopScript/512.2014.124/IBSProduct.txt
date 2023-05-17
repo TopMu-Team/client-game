@@ -1339,3 +1339,12 @@
 1451@Talisman of Item Protection@Duration@1440@[1 Day(s)]@80@2218@142@145@1@144@673@518@6738@10@138@680
 1451@Talisman of Item Protection@Duration@10080@[7 Day(s)]@400@2219@142@145@1@144@673@518@6738@10@138@680
 1451@Talisman of Item Protection@Duration@43200@[30 Day(s)]@1200@2220@142@145@1@144@673@518@6738@10@138@680
+1452@Talisman of Item Protection@Duration@1440@[1 Day(s)]@80@2221@142@145@1@144@673@518@6738@10@138@680
+1452@Talisman of Item Protection@Duration@10080@[7 Day(s)]@400@2222@142@145@1@144@673@518@6738@10@138@680
+1452@Talisman of Item Protection@Duration@43200@[30 Day(s)]@1200@2223@142@145@1@144@673@518@6738@10@138@680
+1453@Seed Capsule (Fire)@Quantity@1@EA@250@2225@142@145@1@144@673@518@7546@7@138@680
+1454@Sphere Upgrade Rune Capsule@Quantity@1@EA@100@2227@142@145@1@144@673@518@7552@7@138@680
+1455@Seed Capsule (Fire)@Quantity@1@EA@250@2229@142@145@1@144@673@518@7546@7@138@680
+1456@Sphere Upgrade Rune Capsule@Quantity@1@EA@100@2231@142@145@1@144@673@518@7552@7@138@680
+1457@Seed Capsule (Fire)@Quantity@1@EA@250@2233@142@145@1@144@673@518@7546@7@138@680
+1458@Sphere Upgrade Rune Capsule@Quantity@1@EA@100@2235@142@145@1@144@673@518@7552@7@138@680
