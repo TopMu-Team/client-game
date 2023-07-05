@@ -30,7 +30,7 @@
 		<Entry Level="1" Min="400" Max="599" />
 		<Entry Level="2" Min="600" Max="799" />
 		<Entry Level="3" Min="800" Max="999" />
-		<Entry Level="4" Min="1000" Max="1500" />
+		<Entry Level="4" Min="1000" Max="1550" />
 	</IllusionTemple>
 	<Rest>
 		<Entry Level="0" Min="50" Max="399" />
@@ -39,6 +39,6 @@
 		<Entry Level="3" Min="700" Max="799" />
 		<Entry Level="4" Min="800" Max="899" />
 		<Entry Level="5" Min="900" Max="999" />
-		<Entry Level="6" Min="1000" Max="1500" />
+		<Entry Level="6" Min="1000" Max="1550" />
 	</Rest>
 </EventEntryLevel>
