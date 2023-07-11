@@ -44,6 +44,9 @@
 32@4@537@Gaion's Order@170@0@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@901|@7270@2@1@1110|@0@508@669
 32@5@538@Complete Secromicon@170@0@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@902|@7277@2@1@1112|@0@508@669
 32@6@1019@Boss Battle Ticket@170@0@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1447|@10349@2@1@2211|@0@508@669
+32@7@1031@Pass Ticket@170@2500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1459|@10362@2@1@2236|@0@508@669
+32@8@1032@Gold Pass Voucher@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1460|@10363@2@1@2238|@0@508@669
+32@9@1033@Premium Pass Voucher@170@7500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1461|@10364@2@1@2240|@0@508@669
 34@1@914@Master Seal of Wealth@170@1500@Increases experience gained and improves item drop rate.#Master Level only#*You cannot use Master Seal of Ascension at the same time.@@182@185@0@0@177@1@GP@GP@181@200@0@1342|@6750@5@3@1941|1942|1943|@0@0@669
 34@2@915@Seal of Wealth@170@750@*Increases experience gained and improves item drop rate.#*Not applicable to Master Level.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Ascension at the same time.#@@182@185@0@0@177@1@GP@GP@181@200@0@1343|@6700@5@4@1945|1946|1947|1948|@0@0@669
 34@3@916@Scroll of Strengthener_7 Day@170@2800@Increases Excellent Damage by 20%.#This item can be used with Quickness, Protection, Wrath, Wizardry, Mana and Health scroll.#You cannot use Scroll of Battle at the same time.@@182@185@0@0@177@1@GP@GP@181@200@0@1344|@7266@5@1@1950|@0@0@669
