@@ -1,5 +1,5 @@
-28@1@71@Talisman of Resurrection@170@50@*Resurrect automatically in the place character died#(When game client is once closed all the restored data will be initialized#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item.@@182@185@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@40|@6725@2@1@66|@0@508@669
-28@2@69@Talisman of Mobility@170@40@*Return to a place where you used Talisman of Mobility initially #(When game client is once closed all the restored data will be initialized.#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item. @@182@185@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@41|@6726@2@1@67|@0@508@669
+28@1@71@Talisman of Resurrection@170@50@*Resurrect automatically in the place character died#(When game client is once closed all the restored data will be initialized#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item.@@182@184@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@40|@6725@2@1@66|@0@508@669
+28@2@69@Talisman of Mobility@170@40@*Return to a place where you used Talisman of Mobility initially #(When game client is once closed all the restored data will be initialized.#It cannot be used in event maps)#*The coordinates will be initialized when character reconnects.#*You can only use once per item. @@182@184@20100526192000@20140527122000@177@1@W Coin@W Coin@181@200@0@41|@6726@2@1@67|@0@508@669
 29@1@123@Seal of Wealth@170@150@*Increases experience gained and improves item drop rate.#*Not applicable to Master Level.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Ascension at the same time.#@@182@185@20100526200000@20140527130000@177@1@W Coin@W Coin@181@200@0@10|@6700@2@4@13|14|15|16|@0@508@669
 29@2@983@Seal of Ascension@170@100@*Increases experience gained from killing monsters.#*Not applicable to Master Level Characters.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Wealth at the same time.#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1411|@6699@2@4@2089|2090|2091|2092|@0@508@669
 29@3@984@Master Seal of Wealth@170@150@Increases experience gained and improves item drop rate.#Master Level only#*You cannot use Master Seal of Ascension at the same time.@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1412|@6750@2@3@2094|2095|2096|@0@508@669
@@ -44,8 +44,8 @@
 32@4@537@Gaion's Order@170@0@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@901|@7270@2@1@1110|@0@508@669
 32@5@538@Complete Secromicon@170@0@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@902|@7277@2@1@1112|@0@508@669
 32@6@1019@Boss Battle Ticket@170@0@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1447|@10349@2@1@2211|@0@508@669
-32@7@1036@Premium Pass Voucher@170@10000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1464|@10364@2@1@2246|@0@508@669
-32@8@1037@Gold Pass Voucher@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1465|@10363@2@1@2248|@0@508@669
+32@7@1036@Premium Pass Voucher@170@5000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1464|@10364@2@1@2246|@0@508@669
+32@8@1037@Gold Pass Voucher@170@2500@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1465|@10363@2@1@2248|@0@508@669
 32@9@1039@Pass Ticket@170@1000@@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1467|@10362@2@2@2252|2253|@0@508@669
 34@1@914@Master Seal of Wealth@170@1500@Increases experience gained and improves item drop rate.#Master Level only#*You cannot use Master Seal of Ascension at the same time.@@182@185@0@0@177@1@GP@GP@181@200@0@1342|@6750@5@3@1941|1942|1943|@0@0@669
 34@2@915@Seal of Wealth@170@750@*Increases experience gained and improves item drop rate.#*Not applicable to Master Level.#*You may use it with Seal of Healing or Seal of Divinity#*You cannot use Seal of Ascension at the same time.#@@182@185@0@0@177@1@GP@GP@181@200@0@1343|@6700@5@4@1945|1946|1947|1948|@0@0@669
@@ -123,9 +123,9 @@
 59@1@655@TOA I (30 Days)@170@500@Once you use this item you will gain an additional 50% exp for 30 days#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1019|@6833@2@1@1274|@0@508@669
 59@2@662@TOA II (30 Days)@170@1000@Once you use this item you will gain an additional 100% exp for 30 days#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1030|@6834@2@1@1292|@0@508@669
 59@3@663@TOA III (30 Days)@170@2500@Once you use this item you will gain an additional 200% exp for 30 days#@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1031|@6835@2@1@1294|@0@508@669
-59@4@1011@Bless of Light (Low Grade)@170@250@Once you use this item you will gain an additional 50% exp for 30 minutes@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1439|@7431@2@1@2185|@0@508@669
-59@5@1012@Bless of Light (Middle Grade)@170@500@Once you use this item you will gain an additional 100% exp for 30 minutes@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1440|@7432@2@1@2187|@0@508@669
-59@6@1021@Bless of Light (Greater)@170@1000@Once you use this item you will gain an additional 200% exp for 30 minutes@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1449|@7392@2@1@2215|@0@508@669
+59@4@1011@Bless of Light (Low Grade) X50@170@250@Once you use this item you will gain an additional 50% exp for 30 minutes@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1439|@7431@2@1@2185|@0@508@669
+59@5@1012@Bless of Light (Middle Grade) X50@170@500@Once you use this item you will gain an additional 100% exp for 30 minutes@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1440|@7432@2@1@2187|@0@508@669
+59@6@1021@Bless of Light (Greater) X50@170@1000@Once you use this item you will gain an additional 200% exp for 30 minutes@@182@184@0@0@177@1@W Coin@W Coin@181@200@0@1449|@7392@2@1@2215|@0@508@669
 60@1@679@Wings of Spirit@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1049|@6147@5@3@1342|1343|1952|@0@0@669
 60@2@681@Wings of Dragon@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1051|@6149@5@3@1350|1351|1352|@0@0@669
 60@3@680@Wings of Soul@170@5000@@@182@185@0@0@177@1@GP@GP@181@200@0@1050|@6148@5@3@1346|1347|1348|@0@0@669
