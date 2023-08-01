@@ -64,12 +64,13 @@
 60	"Abyss of Atlans 2"	"abyss_Atlans2"	50000	1020	-1	618	60	35	834
 61	"Abyss of Atlans 3"	"abyss_Atlans3"	50000	1030	-1	619	61	36	836
 62	"Scorched Canyon"	"Scorched Canyon"	50000	1050	-1	620	62	28	846
-63	"Red Smoke Icarus"	"Red Smoke Icarus"	50000	1070	-1	631	63	68	861
-64	"Arenil Temple"	"Arenil Temple"	50000	1100	-1	634	64	29	867
-65	"Ashen Aida"	"Ashen Aida"	50000	1130	-1	643	65	47	875
-67	"Blaze Kethotum"	"Blaze Kethotum"	50000	1160	-1	659	66	27	896																	
-68	"Kanturu Undergrounds"	"Kanturu Undergrounds"	50000	1190	-1	670	67	48	905
-69	"Ignis Volcano"	"Ignis Volcano"	50000	1220	-1	675	68	44	911																	
+63	"Red Smoke Icarus"	"Red Smoke Icarus"	50000	1100	-1	631	63	68	861
+64	"Arenil Temple"	"Arenil Temple"	50000	1150	-1	634	64	29	867
+65	"Ashen Aida"	"Ashen Aida"	50000	1200	-1	643	65	47	875
+67	"Blaze Kethotum"	"Blaze Kethotum"	50000	1250	-1	659	66	27	896																	
+68	"Kanturu Undergrounds"	"Kanturu Undergrounds"	50000	1300	-1	670	67	48	905
+69	"Ignis Volcano"	"Ignis Volcano"	50000	1350	-1	675	68	44	911			
+70	"Bloody Tarkan"	"Blood Tarkan"	50000	1400	-1	682	69	28	926														
 //35	"Kalima 1"	"Kalima1"	0	40	-1	88	49	55	160
 //36	"Kalima 2"	"Kalima2"	0	131	-1	89	50	56	180
 //37	"Kalima 3"	"Kalima3"	0	181	-1	90	51	57	188

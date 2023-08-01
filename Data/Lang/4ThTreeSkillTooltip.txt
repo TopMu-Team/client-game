@@ -53,9 +53,9 @@
 //1043	"Attacking a target inflicted with Shock debuff with a Shock chain skill has a %0.2f%% chance to enhance the debuff to Stun. "	"Increases the chance to enhance to Stun debuff by %0.2f%%."	1
 //1044	"When the target gets a debuff, a maximum debuff effect can be applied with a %0.2f%% chance."	"When the target gets a debuff, a maximum effect can be applied with a %0.2f%% chance."	1
 //1045	"When the target gets a debuff, the maximum debuff duration can be increased by 5 seconds with a %0.2f%% chance."	"When the target gets a debuff, the maximum debuff duration can be increased by 5 seconds with a %0.2f%% chance."	1
-1046	"Chance to create Poisoning magic field increased by %0.2f%%."	"Chance to inflict Poisoning debuff by %0.2f%%."	1
-1047	"Chance to create Freezing magic field increased by %0.2f%%."	"Chance to inflict Freezing debuff by %0.2f%%."	1
-1048	"Chance to create Bleeding magic field increased by %0.2f%%."	"Chance to inflict Bleeding debuff by %0.2f%%."	1
+1046	"Chance to create Poisoning magic field increased by additional %0.2f%%."	"Chance to inflict Poisoning debuff increased by additional %0.2f%%."	1
+1047	"Chance to create Freezing magic field increased by additional %0.2f%%."	"Chance to inflict Freezing debuff increased by additional by %0.2f%%."	1
+1048	"Chance to create Bleeding magic field increased by additional %0.2f%%."	"Chance to inflict Bleeding debuff increased by additional by %0.2f%%."	1
 //1049	"Additionally increases the chance to apply Shock by %0.2f%%."	"Increases the chance to apply Shock by %0.2f%%."	1
 1050	"Additionally increases the poison DoT DMG of Poisoning debuff by %d."	"Increases the poison DoT DMG of Poisoning debuff by %d."	0
 1051	"Additionally increases the DEF reduction effect of Chilling debuff by %d."	"Increases the DEF reduction effect of Chilling debuff by %d."	0
@@ -237,4 +237,3 @@
 1232	"Increases the DMG of Wind Glaive by %d."	"Increases the DMG of Wind Glaive by %d."	0
 1233	"Increases the DMG of Blade Storm by %d."	"Increases the DMG of Blade Storm by %d."	0
 end
-

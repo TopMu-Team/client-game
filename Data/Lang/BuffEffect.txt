@@ -413,4 +413,12 @@
 408	323	255	255	"Illusion Blade Mastery"	0	1	1	"Summons an Illusion Blade and increases the character's attack power, skill attack power, and attack speed. /Attacking an enemy increases damage taken by 5%."	0
 409	324	255	255	"Illusion Avatar"	0	0	1	"Creates an illusion of an Illusion Knight and attacks nearby monsters."	0
 410	325	255	255	"Damage Increase"	1	1	1	"When Illusion Knight attacks a monster, all damage taken by the monster is increased by 5%."	0
+411	326	255	255	"Season Pass - Increase Max HP"	0	0	1	"Increases Max HP by %d."	2	
+412	327	255	255	"Season Pass - Increase base experience"	0	0	1	"Your initial base experience is increased by %0.1f%%."	2	
+413	328	255	255	"Season Pass - Tempest Muun multiplier increase"	0	0	1	"The Tempest Muun multiplier effect is additionally increased by %d times."	2	
+414	329	255	255	"Season Pass - [G] Master Lee Horn's Crystal"	0	0	1	"When killing a monster, you can obtain the 'Mastery Spirit Crystal' item with a %0.3f%% chance."	2	
+415	330	255	255	"Season Pass - [P] Master Lee Horn's Crystal"	0	0	1	"When killing a monster, you can obtain the 'Mastery Spirit Crystal' item with a %0.3f%% chance."	2	
+418	331	12	93	"Wear Ur"	0	0	1	"Guardian mount item"	0	
+419	332	12	94	"Wear Ur (Rare)"	0	0	1	"Guardian mount item"	0	
+420	333	14	366	"Piece of Pizza"	0	0	1	"Gains an additional 50% of base EXP/Increases attack speed by 10."	0	
 end

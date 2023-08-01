@@ -1,0 +1,27 @@
+0			
+0	"Use MuHelper for %s seconds"	1	6259
+1	"Kill %s monsters in the hunting ground"	1	6264
+2	"Use %s MP by use of skills"	1	6263
+3	"Use %s Potion items"	1	6261
+4	"Use %s Buff items"	1	6261
+5	"Repair Tempest Muun %s times"	1	6262
+6	"Repair Guardian %s times"	1	6262
+7	"Repair equipment items %s times"	1	6262
+8	"Buy %s items from Personal Shop"	1	6263
+9	"Request and gain %s more friends"	1	6262
+10	"Send %s letters to your friends"	1	6262
+11	"Level up the character by %s level"	1	6260
+12	"Disassemble items for %s times"	1	6261
+13	"Combine successfully Soul Potion for %s times"	1	6261
+14	"Clear Varca event"	0	6265
+15	"Achieve 1 million damage in the Boss Battle Together event"	0	6265
+16	"Enter Chaos Castle for %s times"	1	6262
+17	"Enter Blood Castle for %s times"	1	6262
+18	"Enter Devil's Square for %s times"	1	6262
+19	"Find and kill the White Mage"	0	6265
+20	"Participate and success in the Battle of CryWolf"	0	6265
+21	"Participate in the Battle of CryWolf"	0	6265
+22	"Use Three Vacancy Box for %s times"	1	6262
+23	"Use Pandora Pick for %s times"	1	6262
+24	"Acquire from drop %s Jewel of Bless"	1	6261
+end

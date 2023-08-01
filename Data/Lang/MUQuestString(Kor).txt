@@ -249,19 +249,19 @@
 247	Well done.	4	38
 248	Clear Chaos Castle 1 time and return.	5	38
 249	Get the supplies for Chaos Castle	1	39
-250	Welcome. I will earn you the item you need to enter the event. (Level 1000-1500)	2	39
+250	Welcome. I will earn you the item you need to enter the event. (Level 1000-1550)	2	39
 251	Shadow Pawns from the Swamp of Peace should suffice. Go to the Swamp of Peace and defeat 100 Shadow Pawns. Come see me after that, and I will give you a choice between 10 Large SD Potions and 15 Large Complex Potions as your reward. When you claim your reward, make sure you have at least 30 empty slots in your Inventory. Remember that.	2	39
 252	Defeat Shadow Pawns in Swamp of Peace and return.	3	39
 253	Well done. Here's the supplies.	4	39
 254	Defeat Shadow Pawns in Swamp of Peace and receive supplies.	5	39
 255	Defeat 7 players in Chaos Castle!	1	40
-256	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 1000-1500)	2	40
+256	Taking on the challenges of Chaos Castle is tantamount to testing one's own limitations. (Level 1000-1550)	2	40
 257	Try your hand at Chaos Castle Level 7. Come back to me after defeating 10 travelers wearing the Armor of Guardsman, and I will give you 2 Jewels of Soul as a reward. However, this applies only to Chaos Castle Level 7.	2	40
 258	Go to the Event Map to defeat players x7 in Chaos Castle and return.	3	40
 259	Well done.	4	40
 260	Defeat players x7 in Chaos Castle and return.	5	40
 261	Clear Chaos Castle 1 time!	1	41
-262	Surviving Chaos Castle is proof of how well you've trained. (Level 1000-1500)	2	41
+262	Surviving Chaos Castle is proof of how well you've trained. (Level 1000-1550)	2	41
 263	Survive through Chaos Castle Level 7. I will give you 2 Jewels of Bless as a reward when you return. However, this applies only to Chaos Castle Level 7.	2	41
 264	Clear Chaos Castle and return.	3	41
 265	Well done.	4	41
@@ -395,19 +395,19 @@
 393	Well done.	4	61
 394	Clear Blood Castle 1 time and return.	5	61
 395	Get the supplies for Blood Castle	1	62
-396	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 1000-1500)	2	62
+396	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 1000-1550)	2	62
 397	Twin Tails in Kanturu Relics are causing great harm to travelers. Go to Kanturu Relics and hunt down 100 Twin Tails. Come see me when that's done to receive an Invisibility Cloak + 7 as a reward. At your current level, it'll be too dangerous for you to hunt the monsters alone. It'll be better if you hunt in a party.	2	62
 398	Defeat Twin Tails in Kanturu Ruins and return.	3	62
 399	Well done. Here's the supplies.	4	62
 400	Defeat Twin Tails in Kanturu Ruins and receive supplies.	5	62
 401	Destroy the gate in Blood Castle!	1	63
-402	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 1000-1500)	2	63
+402	Taking on the challenges of Blood Castle is tantamount to testing one's own limitations. (Level 1000-1550)	2	63
 403	Try your hand at Blood Castle Level 7. Destroy the castle gate at least, and I'll give you 2 Jewels of Soul as a reward. However, this applies only to Blood Castle Level 7.	2	63
 404	Enter Blood Castle to destroy the gate and return.	3	63
 405	Well done.	4	63
 406	Destroy the gate in Blood Castle 1 time and return.	5	63
 407	Clear Blood Castle!	1	64
-408	Surviving Blood Castle is proof of how well you've trained. (Level 1000-1500)	2	64
+408	Surviving Blood Castle is proof of how well you've trained. (Level 1000-1550)	2	64
 409	Try your hand at Blood Castle Level 7 and complete Archangel's quest. I'll give you 2 Jewels of Bless as a reward when you return. However, this applies only to Blood Castle Level 7.	2	64
 410	Clear Blood Castle and return.	3	64
 411	Well done.	4	64
@@ -541,19 +541,19 @@
 539	Well done.	4	84
 540	Clear Devil Square 1 time and return.	5	84
 541	Get the supplies for Devil Square	1	85
-542	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 1000-1500)	2	85
+542	You are back sooner than I thought. I will give you a quest that will earn you the item you need to enter the event. (Level 1000-1550)	2	85
 543	Many travelers are disappearing from the Swamp of Peace because of Shadow Knights. Go to the Swamp of Peace and defeat 140 Shadow Knights. Come see me once that's done to receive a Devil's Invitation + 7 as a reward. They are strong foes, and you should hunt them with the help of others.	2	85
 544	Defeat Shadow Knights in Swamp of Peace and return.	3	85
 545	Well done. Here's the supplies.	4	85
 546	Hunt Shadow Knights in Swamp of Peace and receive supplies.	5	85
 547	Gain 240 points in Devil Square!	1	86
-548	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 1000-1500)	2	86
+548	Taking on the challenges of Devil Square is tantamount to testing one's own limitations. (Level 1000-1550)	2	86
 549	The test I have in mind is for you to enter Devil Square Level 7 and achieve 240 points. Do this successfully and I'll give you 2 Jewels of Soul as a reward. However, this applies only to Devil Square Level 7. You will earn 2 points for every monster you hunt.	2	86
 550	Enter the Event Map Devil Square to achieve 240 Points and return.	3	86
 551	Well done.	4	86
 552	Gain 240 points in Devil Square and return.	5	86
 553	Clear Devil Square!	1	87
-554	Surviving Devil Square is proof of how well you've trained. (Level 1000-1500)	2	87
+554	Surviving Devil Square is proof of how well you've trained. (Level 1000-1550)	2	87
 555	Enter Devil Square Level 7, defeat the monsters that appear, and survive to the bitter end. I'll give you 2 Jewels of Bless as a reward when you return. However, this applies only to Devil Square Level 7.	2	87
 556	Clear Devil Square and return.	3	87
 557	Well done.	4	87
@@ -1832,7 +1832,7 @@
 1636	Meet Deruvish (Monday)	1	546
 1637	Talk to Deruvish in Acheron (Monday)	5	546
 1638	Commission from the Mercenary Guild (Monday)	1	547
-1639	What can I help you? Ah・ you came for the request from us. (Level 400-1500)	2	547
+1639	What can I help you? Ah・ you came for the request from us. (Level 400-1550)	2	547
 1640	Please come back later when you are ready.	4	547
 1641	Find Deruvish and carry out his request.	5	547
 1642	Eliminate Salamander (Monday)	1	548
@@ -1844,7 +1844,7 @@
 1648	Meet Deruvish (Tuesday)	1	549
 1649	Talk to Deruvish in Acheron (Tuesday)	5	549
 1650	Commission from the Mercenary Guild (Tuesday)	1	550
-1651	What can I help you? Ah・ you came for the request from us. (Level 400-1500)	2	550
+1651	What can I help you? Ah・ you came for the request from us. (Level 400-1550)	2	550
 1652	Please come back later when you are ready.	4	550
 1653	Find Deruvish and carry out his request.	5	550
 1654	Eliminate Undine (Tuesday)	1	551
@@ -1856,7 +1856,7 @@
 1660	Meet Deruvish (Wednesday)	1	552
 1661	Talk to Deruvish in Acheron (Wednesday)	5	552
 1662	Commission from the Mercenary Guild (Wednesday)	1	553
-1663	What can I help you? Ah・ you came for the request from us. (Level 400-1500)	2	553
+1663	What can I help you? Ah・ you came for the request from us. (Level 400-1550)	2	553
 1664	Please come back later when you are ready.	4	553
 1665	Find Deruvish and carry out his request.	5	553
 1666	Eliminate Sylphid (Wednesday)	1	554
@@ -1868,7 +1868,7 @@
 1672	Meet Deruvish (Thursday)	1	555
 1673	Talk to Deruvish in Acheron (Thursday)	5	555
 1674	Commission from the Mercenary Guild (Thursday)	1	556
-1675	What can I help you? Ah・ you came for the request from us. (Level 400-1500)	2	556
+1675	What can I help you? Ah・ you came for the request from us. (Level 400-1550)	2	556
 1676	Please come back later when you are ready.	4	556
 1677	Find Deruvish and carry out his request.	5	556
 1678	Eliminate Gnome (Thursday)	1	557
@@ -1880,7 +1880,7 @@
 1684	Meet Deruvish (Friday)	1	558
 1685	Talk to Deruvish in Acheron (Friday)	5	558
 1686	Commission from the Mercenary Guild (Friday)	1	559
-1687	What can I help you? Ah・ you came for the request from us. (Level 400-1500)	2	559
+1687	What can I help you? Ah・ you came for the request from us. (Level 400-1550)	2	559
 1688	Please come back later when you are ready.	4	559
 1689	Find Deruvish and carry out his request.	5	559
 1690	Eliminate Hellraisers (Friday)	1	560
@@ -1892,7 +1892,7 @@
 1696	Meet Deruvish (Saturday)	1	561
 1697	Talk to Deruvish in Acheron (Saturday)	5	561
 1698	Commission from the Mercenary Guild (Saterday)	1	562
-1699	What can I help you? Ah・ you came for the request from us. (Level 400-1500)	2	562
+1699	What can I help you? Ah・ you came for the request from us. (Level 400-1550)	2	562
 1700	Please come back later when you are ready.	4	562
 1701	Find Deruvish and carry out his request.	5	562
 1702	Acheron Suppression (Saturday)	1	563
@@ -1904,7 +1904,7 @@
 1708	Meet Deruvish (Sunday)	1	564
 1709	Talk to Deruvish in Acheron (Sunday)	5	564
 1710	Commission from the Mercenary Guild (Sunday)	1	565
-1711	What can I help you? Ah・ you came for the request from us. (Level 400-1500)	2	565
+1711	What can I help you? Ah・ you came for the request from us. (Level 400-1550)	2	565
 1712	Please come back later when you are ready.	4	565
 1713	Find Deruvish and carry out his request.	5	565
 1714	Acheron Suppression (Sunday)	1	566
